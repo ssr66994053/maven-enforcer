@@ -1,0 +1,3 @@
+org\apache\maven\enforcer\rule\api\EnforcerRule.class
+org\apache\maven\enforcer\rule\api\EnforcerRuleException.class
+org\apache\maven\enforcer\rule\api\EnforcerRuleHelper.class

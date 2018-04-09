@@ -274,7 +274,7 @@ public class RequireUpperBoundDeps
         private boolean containsConflicts( List<DependencyNodeHopCountPair> pairs )
         {
             DependencyNodeHopCountPair resolvedPair = pairs.get( 0 );
-            //fixme:璺宠繃闈瀥jf搴旂敤渚濊禆妫�煡
+            //fixme:测试
             String key=  resolvedPair.constructKey();
             if(key!=null&&!(key.startsWith("com.global")||key.startsWith("com.global"))){
                 return false;
