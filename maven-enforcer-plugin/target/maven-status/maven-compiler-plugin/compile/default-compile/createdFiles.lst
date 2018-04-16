@@ -1,4 +1,5 @@
-org\apache\maven\plugins\enforcer\util\EnforcerUtils.class
 org\apache\maven\plugins\enforcer\DisplayInfoMojo.class
+org\apache\maven\plugins\enforcer\util\EnforcerUtils.class
 org\apache\maven\plugins\enforcer\EnforceMojo.class
+org\apache\maven\plugins\enforcer\HelpMojo.class
 org\apache\maven\plugins\enforcer\EnforceOnceMojo.class
